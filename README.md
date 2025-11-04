@@ -1,4 +1,4 @@
-# genai-app-react-native
+# cupom-genai-app
 
 Aplicativo móvel (Expo/React Native + TypeScript) para capturar cupons fiscais, extrair informações com IA (Firebase AI Logic · Gemini 2.5 Flash), salvar no Firestore e gerar insights financeiros por mês.
 
