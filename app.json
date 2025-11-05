@@ -1,5 +1,9 @@
 {
   "android": {
     "package": "com.anonymous.reactgemini"
-  }
+  },
+  "plugins": [
+    "expo-router",
+    "expo-web-browser"
+  ]
 }

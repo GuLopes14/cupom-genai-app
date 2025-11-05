@@ -2,6 +2,11 @@
 
 Aplicativo móvel (Expo/React Native + TypeScript) para capturar cupons fiscais, extrair informações com IA (Firebase AI Logic · Gemini 2.5 Flash), salvar no Firestore e gerar insights financeiros por mês.
 
+# Integrantes
+- Gabriel Santos Jablonski - RM: 555452
+- Gustavo Lopes Santos da Silva - RM: 556859
+- Renato de Freitas David Campiteli - RM: 555627
+
 
 ## • Funcionalidades
 
@@ -53,6 +58,10 @@ EXPO_PUBLIC_MEASUREMENT_ID="..."   # opcional
 ## ▶️ Executar
 
 1) Instale dependências e inicie o Metro Bundler.
+```
+npm install
+expo start
+```
 2) Abra pelo Expo Go (Android) ou Câmera (iOS) escaneando o QR code.
 
 ## • Como usar
