@@ -6,6 +6,7 @@ Aplicativo móvel (Expo/React Native + TypeScript) para capturar cupons fiscais,
 - Gabriel Santos Jablonski - RM: 555452
 - Gustavo Lopes Santos da Silva - RM: 556859
 - Renato de Freitas David Campiteli - RM: 555627
+- Samuel Heitor Maragato - RM: 556731
 
 
 ## • Funcionalidades
